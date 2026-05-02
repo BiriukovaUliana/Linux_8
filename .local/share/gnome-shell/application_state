@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<application-state>
-  <context id="">
-    <application id="telegram-desktop_telegram-desktop.desktop" score="11" last-seen="1777753458"/>
-    <application id="org.gnome.Nautilus.desktop" score="27" last-seen="1777669501"/>
-    <application id="org.gnome.Terminal.desktop" score="20474.132162576167" last-seen="1777753456"/>
-    <application id="update-manager.desktop" score="0" last-seen="1777494259"/>
-  </context>
-</application-state>
